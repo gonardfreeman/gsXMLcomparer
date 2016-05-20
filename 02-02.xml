@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document ProgramVersion="6.0.5.8704" Generator="GrandSmeta" DocumentType="{2B0470FD-477C-4359-9F34-EEBE36B7D345}">
+  <Properties LocNum="02-02" Object="Переход конденсатопровода через реку Малая хета  (848)" Constr="Техническое перевооружение подводных переходов дюкера 1К на реке Малая Хета (шифр МХ-1К)-2001"/>
+  <Options Mode="Est" Thousands="Yes" RoundMode="R10">
+    <Numbering Mode="Sequential" Options="Auto"/>
+    <CCChapter Cons="2" Rec="2" Road="2"/>
+  </Options>
+  <Chapters>
+    <Chapter Caption="Локальные сметные расчеты" Number="2">
+      <Position Caption="Надземная прокладка. Устройство 4 шт. опорных оснований под краны DN300" Number="1" Obosn="02-02-01" Sroy="299969" Fot="21143">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-02-01.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="299969" Fot="21143"/>
+        <Mode_ResCurr/>
+        <Total Sroy="299970" Fot="21140" Total="299970"/>
+      </Position>
+      <Position Caption="Надземная прокладка площадки обслуживания" Number="2" Obosn="02-02-02" Sroy="364273" Fot="30321">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-02-02.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="364273" Fot="30321"/>
+        <Mode_ResCurr/>
+        <Total Sroy="364270" Fot="30320" Total="364270"/>
+      </Position>
+      <Position Caption="Надземная прокладка. Ограждения площадок" Number="3" Obosn="02-02-03" Sroy="303700" Fot="29080">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-02-03.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="303700" Fot="29080"/>
+        <Mode_ResCurr/>
+        <Total Sroy="303700" Fot="29080" Total="303700"/>
+      </Position>
+      <Position Caption="Оборудование и монтажные работы по технологии" Number="4" Obosn="02-02-04" Sroy="290" Mont="319112" Obor="80353" Fot="12503">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-02-04.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="290" Mont="319112" Obor="80353" Fot="12503"/>
+        <Mode_ResCurr/>
+        <Total Sroy="290" Mont="319110" Obor="80350" Fot="12500" Total="399750"/>
+      </Position>
+      <Position Caption="Оборудование и монтажные работы по технологии(рассценки ГЭСН)" Number="5" Obosn="02-02-04-1" Sroy="597308" Mont="23306" Obor="1810230" Fot="152841">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-02-04-1.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="597308" Mont="23306" Obor="1810230" Fot="152841"/>
+        <Mode_ResCurr/>
+        <Total Sroy="597310" Mont="23310" Obor="1810230" Fot="152840" Total="2430850"/>
+      </Position>
+      <Total Caption="Итого &quot;Локальные сметные расчеты&quot;" Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880" Total="3798540"/>
+      <Summary Caption="Итого с учетом &quot;Локальные сметные расчеты&quot;" Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880" Total="3798540"/>
+    </Chapter>
+    <Chapter Caption="Временные здания и сооружения" Number="8">
+      <Summary Caption="Итого с учетом &quot;Временные здания и сооружения&quot;" Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880" Total="3798540"/>
+    </Chapter>
+    <Chapter Caption="Прочие работы и затраты" Number="9">
+      <Summary Caption="Итого с учетом &quot;Прочие работы и затраты&quot;" Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880" Total="3798540"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter/>
+    <Chapter Caption="Проектные и изыскательские работы" Number="12">
+      <Summary Caption="Итого с учетом &quot;Проектные и изыскательские работы&quot;" Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880" Total="3798540"/>
+    </Chapter>
+    <Chapter Caption="Непредвиденные затраты" Number="13">
+      <Summary Caption="Итого с учетом &quot;Непредвиденные затраты&quot;" Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880" Total="3798540"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter/>
+    <Chapter/>
+  </Chapters>
+  <GsDocSignatures>
+    <Item Caption="Главный инженер проекта" ID="360" Value="М.Н. Ятченко"/>
+    <Item Caption="Начальник отдела" ID="390" Value="Л.В. Герман"/>
+    <Item Caption="Составил" ID="300" Value="Т.В. Миргородская"/>
+    <Item Caption="Проверил" ID="310" Value="Л.А. Дмитренко"/>
+  </GsDocSignatures>
+</Document>

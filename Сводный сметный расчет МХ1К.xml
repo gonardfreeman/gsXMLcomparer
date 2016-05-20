@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document ProgramVersion="6.0.5.8704" Generator="GrandSmeta" DocumentType="{2B0470FD-477C-4359-9F34-EEBE36B7D346}">
+  <Properties Constr="Техническое перевооружение подводных переходов дюкера 1К на реке Малая Хета (шифр МХ-1К)"/>
+  <Options Mode="Cons" Thousands="Yes" RoundMode="R10">
+    <Numbering Mode="Sequential" Options="Auto"/>
+  </Options>
+  <Chapters>
+    <Chapter Caption="Глава 1. Подготовка территории строительства" Number="1">
+      <Position Caption="Подготовка территории строительства" Number="1" Obosn="01-01-01" Sroy="31660" Fot="6924">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\01-01-01.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="31660" Fot="6924"/>
+        <Mode_ResCurr/>
+        <Total Sroy="31660" Fot="6920" Total="31660"/>
+      </Position>
+      <Position Caption="Демонтажные  работы" Number="2" Obosn="01-02" Sroy="834090" Fot="109680">
+        <DocLink LinkType="OS" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\01-02.gsfx" LinkTarget="File"/>
+        <Total Sroy="834090" Fot="109680" Total="834090"/>
+      </Position>
+      <Position Caption="Вынос в натуру оси трассы трубопровода" Number="3" Obosn="Расчет №01-03" Other="8700">
+        <Total Other="8700" Total="8700"/>
+      </Position>
+      <Position Caption="Арендная плата за землю" Number="4" Obosn="Расчет №01-04" Other="46840">
+        <Total Other="46840" Total="46840"/>
+      </Position>
+      <Position Caption="Плата за ущерб рыбному хозяйству" Number="5" Obosn="Расчет №01-05" Other="13830">
+        <Total Other="13830" Total="13830"/>
+      </Position>
+      <Total Caption="Итого по Главе 1. &quot;Подготовка территории строительства&quot;" Sroy="865750" Other="69370" Fot="116600" Total="935120"/>
+      <Summary Caption="Итого по Главам 1-1" Sroy="865750" Other="69370" Fot="116600" Total="935120"/>
+    </Chapter>
+    <Chapter Caption="Глава 2. Основные объекты строительства" Number="2">
+      <Position Caption="Линейная часть газопровода" Number="6" Obosn="02-01" Sroy="14476940" Mont="300" Fot="497090">
+        <DocLink LinkType="OS" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01.gsfx" LinkTarget="File"/>
+        <Total Sroy="14476940" Mont="300" Fot="497090" Total="14477240"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая хета  (848)" Number="7" Obosn="02-02" Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880">
+        <DocLink LinkType="OS" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-02.gsfx" LinkTarget="File"/>
+        <Total Sroy="1565540" Mont="342420" Obor="1890580" Fot="245880" Total="3798540"/>
+      </Position>
+      <Total Caption="Итого по Главе 2. &quot;Основные объекты строительства&quot;" Sroy="16042480" Mont="342720" Obor="1890580" Fot="742970" Total="18275780"/>
+      <Summary Caption="Итого по Главам 1-2" Sroy="16908230" Mont="342720" Obor="1890580" Other="69370" Fot="859570" Total="19210900"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter/>
+    <Chapter/>
+    <Chapter/>
+    <Chapter Caption="Глава 7. Благоустройство и озеленение территории" SummaryVisible="Yes" Number="7">
+      <Summary Caption="Итого по Главам 1-7" Sroy="16908230" Mont="342720" Obor="1890580" Other="69370" Fot="859570" Total="19210900"/>
+    </Chapter>
+    <Chapter Caption="Глава 8. Временные здания и сооружения" SummaryVisible="Yes" Number="8">
+      <Position Caption="Временные здания и сооружения - 2,7%*0,8=2,16%" Number="8" Obosn="ГСН 81-05-01-2001; п. 5.6.2.2" Sroy="2,16%СДЛ.С" Mont="2,16%СДЛ.М">
+        <Total Sroy="365220" Mont="7400" Total="372620"/>
+      </Position>
+      <Total Caption="Итого по Главе 8. &quot;Временные здания и сооружения&quot;" Sroy="365220" Mont="7400" Total="372620"/>
+      <Summary Caption="Итого по Главам 1-8" Sroy="17273450" Mont="350120" Obor="1890580" Other="69370" Fot="859570" Total="19583520"/>
+    </Chapter>
+    <Chapter Caption="Глава 9. Прочие работы и затраты" SummaryVisible="Yes" Number="9">
+      <Position Caption="Дополнительные затраты при выполнении работ в зимний период - 6,6*1,5*1.05*0.8=8,316%" Number="9" Obosn="ГСН 81-05-02-2007 табл.4 п.1; прил. 1 п.82а VI темп. зона к к=1,05 на ветер" Sroy="8,316%Г1.С:Г8.С" Mont="8,316%Г1.М:Г8.М">
+        <Total Sroy="1436460" Mont="29120" Total="1465580"/>
+      </Position>
+      <Position Caption="Затраты на снегоборьбу - 0,6%" Number="10" Obosn="ГСН 81-05-02-2007 общ. пол. табл.2 VI темпер зона" Sroy="0,6%Г1.С:Г8.С" Mont="0,6%Г1.М:Г8.М">
+        <Total Sroy="103640" Mont="2100" Total="105740"/>
+      </Position>
+      <Position Caption="Затраты на добровольное страхование строительных рисков - 1%" Number="11" Obosn="Письмо Минрегиона РФ №32885-ИМ/08 от 10.12.2008" Other="1%Г1:Г8">
+        <Total Other="195840" Total="195840"/>
+      </Position>
+      <Position Caption="Затраты по перевозке работников строительных и монтажных организаций автомобильным транспортом к месту работы и обратно на рсстояние более 3км" Number="12" Obosn="Расчет №9-01" Other="376460">
+        <Total Other="376460" Total="376460"/>
+      </Position>
+      <Position Caption="Затраты на вахтовый метод производства работ" Number="13" Obosn="Расчет №9-02" Other="2713370">
+        <Total Other="2713370" Total="2713370"/>
+      </Position>
+      <Position Caption="Первоначальная очистка от снега" Number="14" Obosn="Расчет №9-03" Sroy="391996" Fot="49658">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\9-03.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="391996" Fot="49658"/>
+        <Mode_ResCurr/>
+        <Total Sroy="392000" Fot="49660" Total="392000"/>
+      </Position>
+      <Position Caption="Затраты, связанные с проведение подрядных торгов" Number="15" Obosn="Расчет №9-04" Other="3520">
+        <Total Other="3520" Total="3520"/>
+      </Position>
+      <Position Caption="Затраты на разницу стоимости электроэнергии от ПЭС" Number="16" Obosn="Расчет №9-05" Sroy="658860" Mont="13350">
+        <Total Sroy="658860" Mont="13350" Total="672210"/>
+      </Position>
+      <Position Caption="Пребазировка основных строительных машин, механизмов, транспортных средств" Number="17" Obosn="Расчет №9-06" Other="1288640">
+        <Total Other="1288640" Total="1288640"/>
+      </Position>
+      <Position Caption="Плата за выбросы загрязняющих везеств в атмосферу" Number="18" Obosn="Расчет ООС табл.4.1 (стр. 112)" Other="108,38">
+        <Total Other="110" Total="110"/>
+      </Position>
+      <Position Caption="Плата за забор (изъяьте) водных ресурсов" Number="19" Obosn="Расчет ООС табл.4.2 (стр. 114)" Other="23,77">
+        <Total Other="20" Total="20"/>
+      </Position>
+      <Position Caption="Плата за сброс загрязняющих веществ в поверхностные водные объекты" Number="20" Obosn="Расчет ООС табл.4.13 (стр. 115)" Other="515,05">
+        <Total Other="520" Total="520"/>
+      </Position>
+      <Position Caption="Плата за размещение отходов на этапе строительства и эксплуатации" Number="21" Obosn="Расчет ООС табл.4.15 (стр. 117)" Other="1820,49">
+        <Total Other="1820" Total="1820"/>
+      </Position>
+      <Position Caption="Плата для условий сверхлимитного сброса загрязняющих веществ" Number="22" Obosn="Расчет ООС табл.4.3.2" Other="2596,41">
+        <Total Other="2600" Total="2600"/>
+      </Position>
+      <Total Caption="Итого по Главе 9. &quot;Прочие работы и затраты&quot;" Sroy="2590960" Mont="44570" Other="4582900" Fot="49660" Total="7218430"/>
+      <Summary Caption="Итого по Главам 1-9" Sroy="19864410" Mont="394690" Obor="1890580" Other="4652270" Fot="909230" Total="26801950"/>
+    </Chapter>
+    <Chapter Caption="Глава 10. Содержание службы заказчика. Строительный контроль" SummaryVisible="Yes" Number="10">
+      <Position Caption="Строительный котнтроль 2,14%" Number="23" Obosn="Постановление правительства РФ от 21.06.2010 №468" Other="2,14%(Г1:Г9+Г12)">
+        <Total Other="608920" Total="608920"/>
+      </Position>
+      <Total Caption="Итого по Главе 10. &quot;Содержание службы заказчика. Строительный контроль&quot;" Other="608920" Total="608920"/>
+      <Summary Caption="Итого по Главам 1-10" Sroy="19864410" Mont="394690" Obor="1890580" Other="5261190" Fot="909230" Total="27410870"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter Caption="Глава 12. Проектные и изыскательские работы" SummaryVisible="Yes" Number="12">
+      <Position Caption="Стоимость изыскательских работ" Number="24" Obosn="Сводная смета на ПИР" Other="490346">
+        <Total Other="490350" Total="490350"/>
+      </Position>
+      <Position Caption="Стоимость проектных работ" Number="25" Obosn="Сводная смета на ПИР" Other="1108246">
+        <Total Other="1108250" Total="1108250"/>
+      </Position>
+      <Position Caption="Авторский надзор - 0,2%" Number="26" Obosn="МДС 81-35.2004 прил.8 п.12.3" Other="0,2%Г1:Г9">
+        <Total Other="53600" Total="53600"/>
+      </Position>
+      <Total Caption="Итого по Главе 12. &quot;Проектные и изыскательские работы&quot;" Other="1652200" Total="1652200"/>
+      <Summary Caption="Итого по Главам 1-12" Sroy="19864410" Mont="394690" Obor="1890580" Other="6913390" Fot="909230" Total="29063070"/>
+    </Chapter>
+    <Chapter Caption="Непредвиденные затраты" SummaryVisible="Yes" Number="13">
+      <Position Caption="Непредвиденные затраты - 3%" Number="27" Obosn="МДС 81-35.2004 п.4.96" Sroy="3%Г1.С:Г12.С" Mont="3%Г1.М:Г12.М" Obor="3%Г1.О:Г12.О" Other="3%Г1.П:Г12.П">
+        <Total Sroy="595930" Mont="11840" Obor="56720" Other="207400" Total="871890"/>
+      </Position>
+      <Total Caption="Итого &quot;Непредвиденные затраты&quot;" Sroy="595930" Mont="11840" Obor="56720" Other="207400" Total="871890"/>
+      <Summary Caption="Итого с учетом &quot;Непредвиденные затраты&quot;" Sroy="20460340" Mont="406530" Obor="1947300" Other="7120790" Fot="909230" Total="29934960"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter Caption="Налоги и обязательные платежи" Number="15">
+      <Position Caption="НДС - 18%" Number="28" Obosn="МДС 81-35.2004 п.4.100" Sroy="18%Г1.С:Г14.С" Mont="18%Г1.М:Г14.М" Obor="18%Г1.О:Г14.О" Other="18%Г1.П:Г14.П">
+        <Total Sroy="3682860" Mont="73180" Obor="350510" Other="1281740" Total="5388290"/>
+      </Position>
+      <Header Caption="За итогом"/>
+      <Position Caption="Возвратные суммы 15% от ВЗиС" Number="29" Options="Disabled" Sroy="15%Г8.С" Mont="15%Г8.М">
+        <Total Sroy="54780" Mont="1110" Total="55890"/>
+      </Position>
+      <Total Caption="Итого &quot;Налоги и обязательные платежи&quot;" Sroy="3682860" Mont="73180" Obor="350510" Other="1281740" Total="5388290"/>
+      <Summary Caption="Всего по сводному расчету" Sroy="24143200" Mont="479710" Obor="2297810" Other="8402530" Fot="909230" Total="35323250"/>
+    </Chapter>
+    <Chapter/>
+  </Chapters>
+  <GsDocSignatures>
+    <Item Caption="Генеральный директор АО &quot;Нефтьстальконструкция&quot;" Value="С.М. Мешалкин"/>
+    <Item Caption="Главный инженер проекта" ID="360" Value="М.Н. Ятченко"/>
+    <Item Caption="Начальник отдела смет и ПОС" ID="390" Value="Л.В. Герман"/>
+  </GsDocSignatures>
+</Document>

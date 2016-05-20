@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document ProgramVersion="6.0.5.8704" Generator="GrandSmeta" DocumentType="{2B0470FD-477C-4359-9F34-EEBE36B7D345}">
+  <Properties LocNum="01-01" Object="Подготовительные работы" Constr="Капитальный ремонт методом ННБ подводного перехода газопровода-отвода к р.п.Ст.Полтавка Ду300мм Ру5,4МПа через р.Торгун (основная нитка) (инв.№17804)"/>
+  <Options Mode="Est" Thousands="Yes" RoundMode="R1">
+    <Numbering Mode="Sequential" Options="Auto"/>
+    <CCChapter Cons="1" Rec="1" Road="1"/>
+  </Options>
+  <Chapters>
+    <Chapter Caption="Локальные сметные расчеты" Number="2">
+      <Position Caption="Техническая рекультивация" Number="1" Obosn="01-02-01" Sroy="59540" Fot="14312">
+        <DocLink LinkType="RS" Link="C:\Users\bondarenko.dm\Documents\Гранд-Смета\Мои Сметы\Торгун 3й выпуск\Основная\Том 8 СМ\Том 8 Книга 2 ОЛС\Гранд\01-01\01-01-01.gsfx" LinkTarget="File"/>
+        <Mode_BaseIdx Sroy="59540" Fot="14312"/>
+        <Mode_BaseNoIdx Sroy="59540" Fot="14312"/>
+        <Total Sroy="59540" Fot="14312" Total="59540"/>
+      </Position>
+      <Position Caption="Расчистка трассы  от кустарника" Number="2" Obosn="01-02-02" Sroy="3407" Fot="1015">
+        <DocLink LinkType="RS" Link="C:\Users\bondarenko.dm\Documents\Гранд-Смета\Мои Сметы\Торгун 3й выпуск\Основная\Том 8 СМ\Том 8 Книга 2 ОЛС\Гранд\01-01\01-01-02.gsfx" LinkTarget="File"/>
+        <Mode_BaseIdx Sroy="3407" Fot="1015"/>
+        <Mode_BaseNoIdx Sroy="3407" Fot="1015"/>
+        <Total Sroy="3407" Fot="1015" Total="3407"/>
+      </Position>
+      <Total Caption="Итого &quot;Локальные сметные расчеты&quot;" Sroy="62947" Fot="15327" Total="62947"/>
+      <Summary Caption="Итого с учетом &quot;Локальные сметные расчеты&quot;" Sroy="62947" Fot="15327" Total="62947"/>
+    </Chapter>
+    <Chapter Caption="Временные здания и сооружения" Number="8">
+      <Position Caption="Временные здания и сооружения  2,7%*0,8(2,16 %)" Number="3" Obosn="ГСН-81 05-01-2001 прил.1, п.5.6.2.2 п.2.1" Sroy="2,16%СДЛ.С" Mont="2,16%СДЛ.М">
+        <Total Sroy="1360" Total="1360"/>
+      </Position>
+      <Total Caption="Итого &quot;Временные здания и сооружения&quot;" Sroy="1360" Total="1360"/>
+      <Summary Caption="Итого с учетом &quot;Временные здания и сооружения&quot;" Sroy="64307" Fot="15327" Total="64307"/>
+    </Chapter>
+    <Chapter Caption="Прочие работы и затраты" Number="9">
+      <Position Caption="Дополнительные затраты при производстве работ в зимнее время &#xA;(1,152 %)" Number="4" Obosn="ГСН-81 05-02-2007 т.4 п.6.2. прил.1 п.34 ГСНр81-05-02-2001 т.ч.п.12" Sroy="1,152%Г1.С:Г8.С" Mont="1,152%Г1.М:Г8.М">
+        <Total Sroy="741" Total="741"/>
+      </Position>
+      <Total Caption="Итого &quot;Прочие работы и затраты&quot;" Sroy="741" Total="741"/>
+      <Summary Caption="Итого с учетом &quot;Прочие работы и затраты&quot;" Sroy="65048" Fot="15327" Total="65048"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter/>
+    <Chapter Caption="Публичный технологический и ценовой аудит, проектные и изыскательские работы" Number="12">
+      <Summary Caption="Итого с учетом &quot;Публичный технологический и ценовой аудит, проектные и изыскательские работы&quot;" Sroy="65048" Fot="15327" Total="65048"/>
+    </Chapter>
+    <Chapter Caption="Непредвиденные затраты" Number="13">
+      <Position Caption="Непредвиденные затраты - 1,5%" Number="5" Obosn="МДС 81-35.2004 п.4.96" Sroy="1,5%Г1.С:Г12.С" Mont="1,5%Г1.М:Г12.М">
+        <Total Sroy="976" Total="976"/>
+      </Position>
+      <Total Caption="Итого &quot;Непредвиденные затраты&quot;" Sroy="976" Total="976"/>
+      <Summary Caption="Итого с учетом &quot;Непредвиденные затраты&quot;" Sroy="66024" Fot="15327" Total="66024"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter/>
+    <Chapter/>
+  </Chapters>
+  <GsDocSignatures>
+    <Item Caption="Главный инженер проекта" ID="360"/>
+    <Item Caption="Начальник отдела смет и ПОС" ID="3000"/>
+    <Item Caption="Составил" ID="300" Value="А.К.Пономарева">
+      <Attributes>
+        <Item Caption="Проверил" ID="2000" Value="Л.А.Дмитренко"/>
+      </Attributes>
+    </Item>
+  </GsDocSignatures>
+</Document>

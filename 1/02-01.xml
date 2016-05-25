@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document ProgramVersion="6.0.5.8704" Generator="GrandSmeta" DocumentType="{2B0470FD-477C-4359-9F34-EEBE36B7D345}">
+  <Properties LocNum="02-01" Object="Линейная часть газопровода" Constr="Техническое перевооружение подводных переходов дюкера 1К на реке Малая Хета (шифр МХ-1К)"/>
+  <Options Mode="Est" Thousands="Yes" RoundMode="R10">
+    <Numbering Mode="Sequential" Options="Auto"/>
+    <CCChapter Cons="2" Rec="2" Road="2"/>
+  </Options>
+  <Chapters>
+    <Chapter Caption="Локальные сметные расчеты" Number="2">
+      <Position Caption="Надземная прокладка. Устройство 19 шт. опорных конструкций под трубопровод" Number="1" Obosn="02-01-01" Sroy="1022658" Fot="73874">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-01.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="1022658" Fot="73874"/>
+        <Mode_ResCurr/>
+        <Total Sroy="1022660" Fot="73870" Total="1022660"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Левый берег ПК0+30-ПК8+94.  Участок надземной прокладки ПК0+30-ПК1+25   (819)" Number="2" Obosn="02-01-02" Sroy="97502" Mont="304" Fot="3396">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-02.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="97502" Mont="304" Fot="3396"/>
+        <Mode_ResCurr/>
+        <Total Sroy="97500" Mont="300" Fot="3400" Total="97800"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Левый берег ПК0+30-ПК8+94.  Участок надземной прокладки ПК0+30-ПК1+25   (819)(ГЭСН)" Number="3" Obosn="02-01-02-1" Sroy="132209" Fot="3245">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-02-1.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="132209" Fot="3245"/>
+        <Mode_ResCurr/>
+        <Total Sroy="132210" Fot="3250" Total="132210"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Левый берег ПК0+30-ПК8+94..  Участок подземной прокладки ПК1+25-ПК8+94   (819)" Number="4" Obosn="02-01-03" Sroy="3774705" Fot="40459">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-03.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="3774705" Fot="40459"/>
+        <Mode_ResCurr/>
+        <Total Sroy="3774710" Fot="40460" Total="3774710"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Левый берег ПК0+30-ПК8+94..  Участок подземной прокладки ПК1+25-ПК8+94   (819)(ГЭСН)" Number="5" Obosn="02-01-03-1" Sroy="1947898" Fot="60250">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-03-1.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="1947898" Fot="60250"/>
+        <Mode_ResCurr/>
+        <Total Sroy="1947900" Fot="60250" Total="1947900"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета.  Участок ПТР ПК8+94-ПК10+90  (819)" Number="6" Obosn="02-01-04" Sroy="5238349" Fot="175516">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-04.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="5238349" Fot="175516"/>
+        <Mode_ResCurr/>
+        <Total Sroy="5238350" Fot="175520" Total="5238350"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета.  Участок ПТР ПК8+94-ПК10+90  (819) (ГЭСН)" Number="7" Obosn="02-01-04-1" Sroy="565969" Fot="24029">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-04-1.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="565969" Fot="24029"/>
+        <Mode_ResCurr/>
+        <Total Sroy="565970" Fot="24030" Total="565970"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Правый берег ПК10+90-ПК12+90.  Участок подземной прокладки ПК10+90-ПК11+86   (819)" Number="8" Obosn="02-01-05" Sroy="813720" Fot="11248">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-05.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="813720" Fot="11248"/>
+        <Mode_ResCurr/>
+        <Total Sroy="813720" Fot="11250" Total="813720"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Правый берег ПК10+90-ПК12+90.  Участок подземной прокладки ПК10+90-ПК11+86 (ГЭСН)" Number="9" Obosn="02-01-05-1" Sroy="254429" Fot="8460">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-05-1.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="254429" Fot="8460"/>
+        <Mode_ResCurr/>
+        <Total Sroy="254430" Fot="8460" Total="254430"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Правый берег ПК10+90-ПК12+90.  Участок надземной прокладки ПК11+86-ПК12+90   (819)" Number="10" Obosn="02-01-06" Sroy="100762" Fot="3463">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-06.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="100762" Fot="3463"/>
+        <Mode_ResCurr/>
+        <Total Sroy="100760" Fot="3460" Total="100760"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета. Правый берег ПК10+90-ПК12+90.  Участок надземной прокладки ПК11+86-ПК12+90 (ГЭСН)" Number="11" Obosn="02-01-06-1" Sroy="109936" Fot="3396">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-06-1.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="109936" Fot="3396"/>
+        <Mode_ResCurr/>
+        <Total Sroy="109940" Fot="3400" Total="109940"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета.  Гидравлические испытания." Number="12" Obosn="02-01-07" Sroy="75080" Fot="682">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-07.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="75080" Fot="682"/>
+        <Mode_ResCurr/>
+        <Total Sroy="75080" Fot="680" Total="75080"/>
+      </Position>
+      <Position Caption="Переход конденсатопровода через реку Малая Хета.  Гидравлические испытания. (ГЭСН)" Number="13" Obosn="02-01-07-1" Sroy="343711" Fot="89055">
+        <DocLink LinkType="LB" Link="Z:\GROUP3\ARXIV\!!! ТЕХНИЧЕСКОЕ ПЕРЕВООРУЖЕНИЕ ПОДВОДНЫХ ПЕРЕХОДОВ ДЮКЕРА\НЕ УДАЛЯТЬ! сетевая грандсмета\Хеты\хета П 29 03 2015\!!! ДЮКЕР 1К-РЕКА  МАЛАЯ ХЕТА 2001\02-01-07-1.gsfx" LinkTarget="File"/>
+        <Mode_BaseNoIdx Sroy="343711" Fot="89055"/>
+        <Mode_ResCurr/>
+        <Total Sroy="343710" Fot="89060" Total="343710"/>
+      </Position>
+      <Total Caption="Итого &quot;Локальные сметные расчеты&quot;" Sroy="14476940" Mont="300" Fot="497090" Total="14477240"/>
+      <Summary Caption="Итого с учетом &quot;Локальные сметные расчеты&quot;" Sroy="14476940" Mont="300" Fot="497090" Total="14477240"/>
+    </Chapter>
+    <Chapter Caption="Временные здания и сооружения" Number="8">
+      <Summary Caption="Итого с учетом &quot;Временные здания и сооружения&quot;" Sroy="14476940" Mont="300" Fot="497090" Total="14477240"/>
+    </Chapter>
+    <Chapter Caption="Прочие работы и затраты" Number="9">
+      <Summary Caption="Итого с учетом &quot;Прочие работы и затраты&quot;" Sroy="14476940" Mont="300" Fot="497090" Total="14477240"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter/>
+    <Chapter Caption="Проектные и изыскательские работы" Number="12">
+      <Summary Caption="Итого с учетом &quot;Проектные и изыскательские работы&quot;" Sroy="14476940" Mont="300" Fot="497090" Total="14477240"/>
+    </Chapter>
+    <Chapter Caption="Непредвиденные затраты" Number="13">
+      <Summary Caption="Итого с учетом &quot;Непредвиденные затраты&quot;" Sroy="14476940" Mont="300" Fot="497090" Total="14477240"/>
+    </Chapter>
+    <Chapter/>
+    <Chapter/>
+    <Chapter/>
+  </Chapters>
+  <GsDocSignatures>
+    <Item Caption="Главный инженер проекта" ID="360" Value="М.Н. Ятченко"/>
+    <Item Caption="Начальник отдела" ID="390" Value="Л.В. Герман"/>
+    <Item Caption="Составил" ID="300" Value="Т.В. Миргородская"/>
+    <Item Caption="Проверил" ID="310" Value="Л.А. Дмитренко"/>
+  </GsDocSignatures>
+</Document>

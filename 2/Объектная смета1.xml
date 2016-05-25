@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document ProgramVersion="6.0.5.8704" Generator="GrandSmeta" DocumentType="{2B0470FD-477C-4359-9F34-EEBE36B7D345}">
+  <Options Mode="Est" RoundMode="Off">
+    <CCChapter Cons="2" Rec="2" Road="2"/>
+  </Options>
+  <Chapters>
+    <Chapter/>
+    <Chapter Caption="Временные здания и сооружения" SummaryVisible="Yes" Number="8"/>
+    <Chapter Caption="Прочие работы и затраты" SummaryVisible="Yes" Number="9"/>
+    <Chapter/>
+    <Chapter/>
+    <Chapter Caption="Проектные и изыскательские работы" SummaryVisible="Yes" Number="12"/>
+    <Chapter/>
+    <Chapter/>
+    <Chapter/>
+    <Chapter/>
+  </Chapters>
+</Document>

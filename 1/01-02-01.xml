@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document ProgramVersion="6.0.5.8704" Generator="GrandSmeta" DocumentType="{2B0470FD-477C-4359-9F34-EEBE36B7D340}" GrandSmetaSign="BIQAAAMLNyM/I0tDAzdHDwMcgyM/PIM/AziD06Ovo4Osg4iDQ1HV2cTA3NzIyNzk0QUFCQTkzN0ZEMDlBNTU1OTFCRDNBM0ZGQQ==">
+  <Properties LocNum="01-02-01" Object="Демонтажные  работы" Constr="Техническое перевооружение подводных переходов дюкера 1К на реке Малая Хета (шифр МХ-1К)-2001" Description="Демонтаж существующего трубопровода, Левый берег .Участок надземной прокладки ПК 0+31 - ПК 1+68,1"/>
+  <RegionInfo RegionName="Красноярский край (редакция 2009 г.)" RegionID="4240" Zone84Name="Базовый территориальный район" Zone84ID="1" Zone01Name="зона 6 - г. Норильск" Zone01ID="6"/>
+  <Parameters Options="RoundPos AddZatr RoundTaxes SeparateFot RoundNPBase" BasePrices="2001" BaseCalcVrs="Vr2001" BaseCalcMode="ResIfNoPrice" BlockRoundMode="Smart" TempZone="1" MatRoundMode="SignDigitsPreserveInt" MatDigits="4" ItogOptions="SeparateVrs" FirstItogItem="K" ItogExpandTo="Default" TzDigits="2" PosKDigits="2" MultKPosCalcMode="UseTotalMult" PropsConfigNameModified="Yes">
+    <Numbering Mode="Sequential" Options="Auto"/>
+    <CommonNK ActiveItems="Vk Ck Mk"/>
+    <CommonPK ActiveItems="Vk Ck Mk"/>
+  </Parameters>
+  <Indexes IndexesMode="None" IndexesLinkMode="Default">
+    <OsIndexes/>
+  </Indexes>
+  <RegionalK Options="Percent Base"/>
+  <TerZoneK Caption="Территориальная поправка к базе 2001г" Options="Base PzAll EmAll"/>
+  <VidRab_Catalog Caption="2011_Районы Крайнего Севера">
+    <Vids_Rab Type="Виды работ 2001г">
+      <VidRab_Group Caption="Перевозка по ФЕР" ID="13">
+        <Vid_Rab Caption="Погрузо-разгрузочные работы при автомобильных перевозках" ID="10124" Nacl="100" NaclMask="ФОТ" Plan="60" PlanMask="ФОТ" NaclCurr="100" PlanCurr="60" NKI="0.85" PKI="0.8" NKR="0.85" PKR="0.8"/>
+      </VidRab_Group>
+      <VidRab_Group Caption="Общестроительные работы" ID="0">
+        <Vid_Rab Caption="Свайные работы" ID="10008" Nacl="150" NaclMask="ФОТ" Plan="80" PlanMask="ФОТ" NaclCurr="150" PlanCurr="80" NKI="0.85" PKI="0.8" NKR="0.85" PKR="0.8"/>
+        <Vid_Rab Caption="Магистральные и промысловые трубопроводы" ID="10029" Nacl="132" NaclMask="ФОТ" Plan="60" PlanMask="ФОТ" NaclCurr="132" PlanCurr="60" NKI="0.85" PKI="0.8" NKR="0.85" PKR="0.8"/>
+        <Vid_Rab Caption="Скважины" ID="10007" Nacl="123" NaclMask="ФОТ" Plan="51" PlanMask="ФОТ" NaclCurr="123" PlanCurr="51" NKI="0.85" PKI="0.8" NKR="0.85" PKR="0.8"/>
+      </VidRab_Group>
+      <VidRab_Group Caption="Перевозка грузов" ID="1013">
+        <Vid_Rab Caption="Погрузо-разгрузочные работы" ID="10591" NaclMask="ФОТ" PlanMask="ФОТ" NKI="0.85" PKI="0.8" NKR="0.85" PKR="0.8"/>
+        <Vid_Rab Caption="Перевозка грузов автотранспортом" ID="10133" NaclMask="ФОТ" PlanMask="ФОТ" NKI="0.85" PKI="0.8" NKR="0.85" PKR="0.8"/>
+      </VidRab_Group>
+    </Vids_Rab>
+    <Vids_Rab Type="Виды работ 1984г"/>
+  </VidRab_Catalog>
+  <Koefficients>
+    <K Caption="Коэф. к заработной плате" Options="Base Curr" Value_OZ="2,6" Value_ZM="2,6" Level="15"/>
+  </Koefficients>
+  <WinterCatalog WinterMode="None" WinterLinkMode="Table">
+    <CommonWinterK/>
+  </WinterCatalog>
+  <Chapters>
+    <Chapter SysID="1">
+      <Position Caption="Погрузочные работы при автомобильных перевозках: металлических конструкций массой до 1 т" Number="1" Code="ФССЦпг01-01-01-015" ItemFlags="Info" SysID="23" Units="1 т груза" Quantity="0,662" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10591" Bookmark="255">
+        <Quantity Fx="0,662" Result="0,662"/>
+        <PriceBase PZ="22,33" EM="22,33"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="6"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="7"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Разгрузочные работы при автомобильных перевозках: металлических конструкций массой до 1 т" Number="2" Code="ФССЦпг01-01-02-015" ItemFlags="Info" SysID="24" Units="1 т груза" Quantity="0,662" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10591" Bookmark="255">
+        <Quantity Fx="0,662" Result="0,662"/>
+        <PriceBase PZ="22,33" EM="22,33"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="5"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="6"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Спиливание деревянных свай Д270" Number="3" Code="ЕНиР6-46-1-01" ColorIndex="4" SysID="35" Units="100 рез" Quantity="22/100" PriceLevel="2001" PzSync="Yes" Vr2001="10007" Bookmark="255">
+        <Quantity Fx="22/100" Result="0,22"/>
+        <Resources>
+          <Tzr Caption="Затраты труда рабочих" Code="1" Units="чел.час" Quantity="7,9" Attribs="SnipSet Added">
+            <PriceBase Value="9,81"/>
+          </Tzr>
+          <Mch Caption="Пила с карбюраторным двигателем" Code="331601" Units="маш.-ч" Quantity="7,9" Attribs="SnipSet Added">
+            <PriceBase Value="10,95"/>
+          </Mch>
+        </Resources>
+      </Position>
+      <Position Caption="Погрузочные работы при автомобильных перевозках: леса пиленого, погонажа плотничный, шпал" Number="4" Code="ФССЦпг01-01-01-008" ItemFlags="Info" SysID="26" Units="1 т груза" Quantity="1,6" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10591" Bookmark="255">
+        <Quantity Fx="1,6" Result="1,6"/>
+        <PriceBase PZ="10,88" EM="10,88"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="5"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="6"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Погрузочные работы при автомобильных перевозках: леса пиленого, погонажа плотничный, шпал" Number="5" Code="ФССЦпг01-01-01-008" ItemFlags="Info" SysID="28" Units="1 т груза" Quantity="1,6" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10591" Bookmark="255">
+        <Quantity Fx="1,6" Result="1,6"/>
+        <PriceBase PZ="10,88" EM="10,88"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="5"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="6"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Резка металлчских труб Д245х8 мм с помощью газовой резки" Number="6" Code="ТЕР04-02-007-03" SysID="33" Units="1 рез" Quantity="2" PriceLevel="2001" DBComment="Пр.Минстроя Краснояр.кр. от 12.11.10 №237-О" PzSync="Yes" Vr2001="10007" Bookmark="255">
+        <Quantity Fx="2" Result="2"/>
+        <PriceBase PZ="11,91" OZ="2,19" EM="7,03" MT="2,69"/>
+        <Resources>
+          <Tzr Caption="Затраты труда рабочих" Code="1-3-5" Units="чел.час" Quantity="0,21" Attribs="SnipSet" WorkClass="3,5">
+            <PriceBase Value="10,44"/>
+          </Tzr>
+          <Mch Caption="Аппарат для газовой сварки и резки" Code="040504" Units="маш.-ч" Quantity="0,19" Attribs="SnipSet">
+            <PriceBase Value="4,4"/>
+          </Mch>
+          <Mch Caption="Автомобили бортовые, грузоподъемность до 5 т" Code="400001" Units="маш.-ч" Quantity="0,03" Attribs="SnipSet">
+            <PriceBase Value="206,56" ZM="94,48"/>
+          </Mch>
+          <Mat Caption="Кислород технический газообразный" Code="101-0324" Units="м3" Quantity="0,19" Attribs="SnipSet">
+            <PriceBase Value="11,14"/>
+          </Mat>
+          <Mat Caption="Пропан-бутан, смесь техническая" Code="101-2278" Units="кг" Quantity="0,038" Attribs="SnipSet">
+            <PriceBase Value="15"/>
+          </Mat>
+        </Resources>
+        <WorksList>
+          <Work Caption="Подготовка баллонов к работе с присоединением к ним и продувкой шлангов."/>
+          <Work Caption="Опробование (регулировка) резака."/>
+          <Work Caption="Резка металла."/>
+          <Work Caption="Отключение шлангов от баллонов и уборка их после окончания работ."/>
+        </WorksList>
+      </Position>
+      <Position Caption="Погрузочные работы при автомобильных перевозках: металлических конструкций массой до 1 т (задвижки Д150)" Number="7" Code="ФССЦпг01-01-01-015" ItemFlags="Info" SysID="31" Units="1 т груза" Quantity="0,11" PriceLevel="2001" DBComment="И1-Пр. Минрегион от 05.05.12 №189" DBFlags="TechK" PzSync="Yes" Vr2001="10591" Bookmark="255">
+        <Quantity Fx="0,11" Result="0,11"/>
+        <PriceBase PZ="22,33" EM="22,33"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="5"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="6"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Разгрузочные работы при автомобильных перевозках: металлических конструкций массой до 1 т" Number="8" Code="ФССЦпг01-01-02-015" ItemFlags="Info" SysID="30" Units="1 т груза" Quantity="0,11" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10591" Bookmark="255">
+        <Quantity Fx="0,11" Result="0,11"/>
+        <PriceBase PZ="22,33" EM="22,33"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="5"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="6"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Газовая резка стальной трубы Д325х10 мм" Number="9" Code="ТЕР04-02-007-06" SysID="34" Units="1 рез" Quantity="13" PriceLevel="2001" DBComment="Пр.Минстроя Краснояр.кр. от 12.11.10 №237-О" PzSync="Yes" Vr2001="10007" Bookmark="255">
+        <Quantity Fx="13" Result="13"/>
+        <PriceBase PZ="13,06" OZ="2,61" EM="7,21" MT="3,24"/>
+        <Resources>
+          <Tzr Caption="Затраты труда рабочих" Code="1-3-5" Units="чел.час" Quantity="0,25" Attribs="SnipSet" WorkClass="3,5">
+            <PriceBase Value="10,44"/>
+          </Tzr>
+          <Mch Caption="Аппарат для газовой сварки и резки" Code="040504" Units="маш.-ч" Quantity="0,23" Attribs="SnipSet">
+            <PriceBase Value="4,4"/>
+          </Mch>
+          <Mch Caption="Автомобили бортовые, грузоподъемность до 5 т" Code="400001" Units="маш.-ч" Quantity="0,03" Attribs="SnipSet">
+            <PriceBase Value="206,56" ZM="94,48"/>
+          </Mch>
+          <Mat Caption="Кислород технический газообразный" Code="101-0324" Units="м3" Quantity="0,23" Attribs="SnipSet">
+            <PriceBase Value="11,14"/>
+          </Mat>
+          <Mat Caption="Пропан-бутан, смесь техническая" Code="101-2278" Units="кг" Quantity="0,045" Attribs="SnipSet">
+            <PriceBase Value="15"/>
+          </Mat>
+        </Resources>
+        <WorksList>
+          <Work Caption="Подготовка баллонов к работе с присоединением к ним и продувкой шлангов."/>
+          <Work Caption="Опробование (регулировка) резака."/>
+          <Work Caption="Резка металла."/>
+          <Work Caption="Отключение шлангов от баллонов и уборка их после окончания работ."/>
+        </WorksList>
+      </Position>
+    </Chapter>
+    <Chapter Caption="Перевозка" SysID="2">
+      <Position Caption="Перевозка грузов автомобилями-самосвалами грузоподъемностью 10 т, работающих вне карьера, на расстояние: до 10 км I класс груза" Number="10" Code="ФССЦпг03-21-01-010" ItemFlags="Info" SysID="25" Units="1 т груза" Quantity="0,662" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10133" Bookmark="255">
+        <Quantity Fx="0,662" Result="0,662"/>
+        <PriceBase PZ="11,42" EM="11,42"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="6"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="7"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Перевозка грузов автомобилями-самосвалами грузоподъемностью 10 т, работающих вне карьера, на расстояние: до 10 км I класс груза" Number="11" Code="ФССЦпг03-21-01-010" ItemFlags="Info" SysID="27" Units="1 т груза" Quantity="1,6" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10133" Bookmark="255">
+        <Quantity Fx="1,6" Result="1,6"/>
+        <PriceBase PZ="11,42" EM="11,42"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="5"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="6"/>
+        </Koefficients>
+      </Position>
+      <Position Caption="Перевозка грузов автомобилями-самосвалами грузоподъемностью 10 т, работающих вне карьера, на расстояние: до 10 км I класс груза" Number="12" Code="ФССЦпг03-21-01-010" ItemFlags="Info" SysID="29" Units="1 т груза" Quantity="0,11" PriceLevel="2001" DBComment="Приказ Минстроя РФ от 30.01.14 №31/пр" DBFlags="TechK" PzSync="Yes" Vr2001="10133" Bookmark="255">
+        <Quantity Fx="0,11" Result="0,11"/>
+        <PriceBase PZ="11,42" EM="11,42"/>
+        <Koefficients>
+          <K Caption="ОП п.1.1.9 Прил.1_Поясной коэффициент: Республика Саха (Якутия) и районы Крайнего Севера (за исключением районов Республики Саха и Магаданской области, расположенных севернее полярного круга)" Options="Base Curr PzAll EmAll" Value_PZ="2,2" Level="5"/>
+          <K Caption="ТЕР зона 1 &gt;ТЕР зона 6" Options="Base Curr SeparEm" Value_OZ="1,63" Value_EM="1,45" Value_ZM="1,63" Value_MT="1,85" Level="6"/>
+        </Koefficients>
+      </Position>
+    </Chapter>
+  </Chapters>
+  <AddZatrats>
+    <AddZatrGlava Glava="8"/>
+    <AddZatrGlava Glava="9"/>
+    <AddZatrGlava Glava="10"/>
+    <AddZatrGlava Glava="11"/>
+    <AddZatrGlava Glava="12"/>
+    <AddZatrGlava Glava="13"/>
+    <AddZatrGlava Glava="14"/>
+    <AddZatrGlava Glava="15"/>
+  </AddZatrats>
+  <OsInfo OSChapter="1" LinkType="LB">
+    <CCChapter Cons="1" Rec="1" Road="1"/>
+  </OsInfo>
+  <GsDocSignatures>
+    <Item Caption="Составил" ID="300" Value="Т.В.Миргородская"/>
+    <Item Caption="Проверил" ID="310" Value="Л.А.Дмитренко"/>
+    <Item Caption="Основание" ID="100" Value="190/2015/140001/МХ-1К/Р-Л.ВР.3"/>
+  </GsDocSignatures>
+</Document>

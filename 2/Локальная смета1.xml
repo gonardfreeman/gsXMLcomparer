@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Document ProgramVersion="6.0.5.8704" Generator="GrandSmeta" DocumentType="{2B0470FD-477C-4359-9F34-EEBE36B7D340}">
+  <RegionInfo RegionName="Красноярский край (редакция 2009 г.)" RegionID="4240" Zone84ID="1" Zone01Name="зона 1 - г. Красноярск" Zone01ID="1"/>
+  <Parameters Options="AddZatr SeparateFot" BasePrices="2001" BaseCalcVrs="Vr2001" BlockRoundMode="Smart" TempZone="1" MatRoundMode="SignDigitsPreserveInt" MatDigits="4" ItogOptions="SeparateVrs" FirstItogItem="K" ItogExpandTo="Default" TzDigits="2" PosKDigits="2" MultKPosCalcMode="UseTotalMult">
+    <CommonNK ActiveItems="Vk Ck Mk"/>
+    <CommonPK ActiveItems="Vk Ck Mk"/>
+  </Parameters>
+  <Indexes IndexesMode="None" IndexesLinkMode="Default">
+    <OsIndexes/>
+  </Indexes>
+  <RegionalK Options="Percent Base"/>
+  <TerZoneK Caption="Территориальная поправка к базе 2001г" Options="Base PzAll EmAll"/>
+  <VidRab_Catalog Caption="Основной справочник видов работ">
+    <Vids_Rab Type="Виды работ 2001г"/>
+    <Vids_Rab Type="Виды работ 1984г"/>
+  </VidRab_Catalog>
+  <WinterCatalog WinterMode="None" WinterLinkMode="Table">
+    <CommonWinterK/>
+  </WinterCatalog>
+  <Chapters>
+    <Chapter Caption="Новый Раздел" SysID="1"/>
+  </Chapters>
+  <AddZatrats>
+    <AddZatrGlava Glava="8">
+      <AddZatr Caption="Временные" Value="1,8" Options="Percent InSmr"/>
+    </AddZatrGlava>
+    <AddZatrGlava Glava="9"/>
+    <AddZatrGlava Glava="10"/>
+    <AddZatrGlava Glava="11"/>
+    <AddZatrGlava Glava="12"/>
+    <AddZatrGlava Glava="13">
+      <AddZatr Caption="Непредвиденные затраты" Value="2" Options="Percent"/>
+    </AddZatrGlava>
+    <AddZatrGlava Glava="14"/>
+    <AddZatrGlava Glava="15">
+      <AddZatr Caption="НДС" Value="18" Options="Percent" Level="1"/>
+    </AddZatrGlava>
+  </AddZatrats>
+  <OsInfo OSChapter="1" LinkType="LB">
+    <CCChapter Cons="2" Rec="2" Road="2"/>
+  </OsInfo>
+  <GsDocSignatures>
+    <Item Caption="Основание" ID="100"/>
+    <Item Caption="Составил" ID="300"/>
+    <Item Caption="Проверил" ID="310"/>
+    <Item Caption="Заказчик" ID="230"/>
+    <Item Caption="Подрядчик" ID="240"/>
+    <Item Caption="Инвестор" ID="220"/>
+    <Item Caption="Сдал" ID="320"/>
+    <Item Caption="Принял" ID="330"/>
+  </GsDocSignatures>
+</Document>
